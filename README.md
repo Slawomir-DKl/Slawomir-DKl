@@ -1,6 +1,6 @@
 👋 My name is Sławomir Duda-Klimaszewski and I'm based in Wrocław, Poland.
 
-👀 I’m in the process of changing profession to software tester.
+👀 I’m starting my career of QA Specialist in Polish company Dataedo.
 
 🌱 I’m currently learning Python & SQL.
 

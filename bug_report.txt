@@ -1,4 +1,5 @@
-Bug report
+Sample bug report
+
 Id: 1
 Title: Backuply - Enormous number of days since the last backup
 Description:
